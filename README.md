@@ -2,7 +2,7 @@
 동기 비동기, 블로킹 논블로킹
 
 <img width="1512" alt="1" src="https://github.com/user-attachments/assets/2098f580-487b-4c75-a626-a48b857b5189" />
-<img width="1512" alt="2" src="https://github.com/user-attachments/assets/9a4e0ca6-1bec-447c-80db-8dd3cc7bc838" />
+<img width="1512" alt="1" src="https://github.com/user-attachments/assets/ced64912-4a54-488b-abd5-3b80fb439aaa" />
 <img width="1512" alt="3" src="https://github.com/user-attachments/assets/8cc91a45-fb06-49b4-829c-cc2b84514492" />
 <img width="1512" alt="4" src="https://github.com/user-attachments/assets/9414796c-ed69-499c-ad32-4bbf1a863215" />
 <img width="1512" alt="5" src="https://github.com/user-attachments/assets/5a34ba5c-3c79-492b-8923-f53330c77177" />
